@@ -11,3 +11,6 @@ $ npx react-native run-ios
 
 # Testing
 To Be Defined...
+
+# Reference
+- [TypeScript 4.0 Cheat Sheet](https://www.sitepen.com/blog/typescript-cheat-sheet)
